@@ -10,6 +10,10 @@
 ### 3 BBC news clustering.ipynb
 此範例和上一例類似，做資料量較大的新聞分群。  
 
+### 4 mnist auto encoder.ipynb
+此範例用autoencoder(一種self-supervised learning)，做MNIST的分群。  
+![image4](images/04.jpg)  
+
 ### TF-IDF
 代表文章特徵的一種方法。  
 ![image1](images/01.jpg)  
@@ -20,3 +24,7 @@
 https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html  
 https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python  
 https://www.coursera.org/learn/ml-foundations?specialization=data-science-python  
+https://www.kaggle.com/sameersmahajan/people-wikipedia-data  
+https://github.com/aspamers/autoencoder  
+https://blog.keras.io/building-autoencoders-in-keras.html  
+https://machinelearningmastery.com/lstm-autoencoders/  
